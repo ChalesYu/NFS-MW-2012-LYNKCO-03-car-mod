@@ -12,3 +12,12 @@ use VEH_122701_HI.BNDL replace VEHICLES/VEH_122701_HI.BNDL
 
 BNDL file is using NFSMW12VMT tool to import.
 
+![pub_1](https://github.com/ChalesYu/NFS-MW-2012-LYNKCO-03-car-mod/blob/master/pub_1.png)
+
+![pub_2](https://github.com/ChalesYu/NFS-MW-2012-LYNKCO-03-car-mod/blob/master/pub_2.png)
+
+![pub_3](https://github.com/ChalesYu/NFS-MW-2012-LYNKCO-03-car-mod/blob/master/pub_3.png)
+
+![pub_4](https://github.com/ChalesYu/NFS-MW-2012-LYNKCO-03-car-mod/blob/master/pub_4.png)
+
+
