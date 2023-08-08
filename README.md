@@ -1,4 +1,4 @@
-# NFS-MW-2012-LYNKCO-03-car-mod
+# NFS-MW-2012-LYNKCO-03-car-mod [unoffical]
 lynk&amp;co 03 Car MOD  for Game Need for Speed Most Wanted (2012)
 
 Replace Chevrolet Corvette ZR1 3D model
